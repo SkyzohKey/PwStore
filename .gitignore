@@ -34,3 +34,9 @@ libtool
 *.pc
 .anjuta/
 .anjuta_sym_db.db
+
+# This is a Vala project, ignore C files.
+src/pwstore
+*.c
+*.stamp
+stamp-*

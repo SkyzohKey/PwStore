@@ -1,7 +1,7 @@
 dnl Process this file with autoconf to produce a configure script.
 dnl Created by Anjuta application wizard.
 
-AC_INIT(pwstore, 0.1.0)
+AC_INIT(pwstore, 0.1.0, https://github.com/SkyzohKey/PwStore/issues, PwStore, https://github.com/SkyzohKey/PwStore)
 
 AC_CONFIG_HEADERS([config.h])
 
